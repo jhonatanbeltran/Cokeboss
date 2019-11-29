@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configuration date="2019/06/10" author="e.World Technology Ltd.">
+  <project id="{32EED04B-7492-488D-88BA-E849477D8825}" file="" name="project1" product="PHPMaker" version="15.0" datetime="2019/06/10 23:21:40" languagefolder="phplang" userlevel="-2,&quot;Anonymous&quot;,0;">
+    <table id="cliente" name="cliente" caption="cliente" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="compra" name="compra" caption="compra" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="factura" name="factura" caption="factura" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="inventario" name="inventario" caption="inventario" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="inventario_producto" name="inventario_producto" caption="inventario producto" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="inventario_temp" name="inventario_temp" caption="inventario temp" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="item_orden" name="item_orden" caption="item orden" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="materia_prima" name="materia_prima" caption="materia prima" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="pedido" name="pedido" caption="pedido" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="pedido_orden" name="pedido_orden" caption="pedido orden" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="proceso" name="proceso" caption="proceso" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="producto" name="producto" caption="producto" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="producto_materia" name="producto_materia" caption="producto materia" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="producto_proceso" name="producto_proceso" caption="producto proceso" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="proveedor" name="proveedor" caption="proveedor" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="proveedor_inv_mat" name="proveedor_inv_mat" caption="proveedor inv mat" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tipo_cliente" name="tipo_cliente" caption="tipo cliente" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="tipo_producto" name="tipo_producto" caption="tipo producto" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+    <table id="usuario" name="usuario" caption="usuario" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1" />
+  </project>
+</configuration>
